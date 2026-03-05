@@ -1,6 +1,8 @@
 ## Hi there 👋
 I'm intersting about Computer game
-
+ ![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=114b10858
+&show_icons=true&theme=radical)
 <!--
 **114b10858/114b10858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
