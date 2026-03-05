@@ -2,9 +2,7 @@
 I'm intersting about Computer game
 
 
-- 🔭 I’m student ... ![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=你的帳
-號&show_icons=true&theme=radical
+- 🔭 I’m student
 - 🌱 I’m currently learning AAM...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
