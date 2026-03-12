@@ -1,4 +1,4 @@
-## Hi there 不處👋
+## Hi there👋
 I'm intersting about Computer game
 
 
